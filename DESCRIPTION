@@ -1,8 +1,8 @@
 Package: planreadr
 Type: Package
-Title: What the Package Does (Title Case)
+Title: A package to import schedule files in R
 Version: 0.1.0
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: More about what it does (maybe more than one line)
+Authors@R: person("Pierre", "Brandicourt", email = "pbrandicourt@gmail.com", role = c("aut", "cre"))
+Description: A package to import schedule files in R
 License: What license is it under?
 LazyData: TRUE
